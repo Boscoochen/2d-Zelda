@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CameraMovement : MonoBehaviour
 {
-    public Transform target;
+    public Transform target; //need fixs
     public float smoothing;
     public Vector2 maxPosition;
     public Vector2 minPosition;

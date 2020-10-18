@@ -20,6 +20,7 @@ public class PlayerMovement : MonoBehaviour
     private Animator animator;
     public FloatValue currentHealth;
     public Signal playerHealthSignal;
+    public GameObject cameraSwitch;
     // Start is called before the first frame update
     void Start()
     {
