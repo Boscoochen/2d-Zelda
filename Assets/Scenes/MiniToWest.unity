@@ -757,7 +757,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  speed: 8
+  speed: 40
   currentHealth: {fileID: 11400000, guid: 48571f00e5e0e43c2b75ec6ee1678ad8, type: 2}
   playerHealthSignal: {fileID: 11400000, guid: 1cacf872c05aa40d6b3ec2a913697591, type: 2}
   cameraSwitch: {fileID: 1148245517}
@@ -1649,7 +1649,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  speed: 8
+  speed: 40
   currentHealth: {fileID: 11400000, guid: d444847d2377041179e93da2a224e61f, type: 2}
   playerHealthSignal: {fileID: 11400000, guid: c9215f51380aa43d5beee680fdbf9703, type: 2}
   cameraSwitch: {fileID: 1148245517}
@@ -22263,7 +22263,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  speed: 8
+  speed: 40
   currentHealth: {fileID: 11400000, guid: 48571f00e5e0e43c2b75ec6ee1678ad8, type: 2}
   playerHealthSignal: {fileID: 11400000, guid: 1cacf872c05aa40d6b3ec2a913697591, type: 2}
   cameraSwitch: {fileID: 1148245517}
@@ -23061,7 +23061,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  speed: 8
+  speed: 40
   currentHealth: {fileID: 0}
   playerHealthSignal: {fileID: 0}
   cameraSwitch: {fileID: 1148245517}
